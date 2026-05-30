@@ -103,8 +103,8 @@ All tables have Row Level Security enabled. Organizers see only their own sessio
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/your-username/attendly.git
-cd attendly
+git clone https://github.com/your-username/Presenza.git
+cd Presenza
 bun install
 ```
 

@@ -7,7 +7,7 @@ import { useAuth } from "@/lib/use-auth";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Attendly — Geofenced QR Attendance" },
+      { title: "Presenza — Geofenced QR Attendance" },
       { name: "description", content: "Rotating QR codes, GPS check-in, device-locked attendance." },
     ],
   }),
@@ -27,7 +27,7 @@ function Landing() {
       <header className="px-6 py-5 flex items-center justify-between max-w-6xl mx-auto w-full">
         <div className="flex items-center gap-2 font-semibold text-lg">
           <QrCode className="w-6 h-6 text-primary" />
-          Attendly
+          Presenza
         </div>
         <div className="flex gap-2">
           <Button variant="ghost" asChild><Link to="/login">Sign in</Link></Button>

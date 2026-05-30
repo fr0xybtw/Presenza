@@ -27,7 +27,7 @@ function AuthLayout() {
       <header className="border-b sticky top-0 z-30 bg-background/95 backdrop-blur">
         <div className="max-w-6xl mx-auto px-4 h-14 flex items-center justify-between">
           <Link to={role === "organizer" ? "/organizer" : "/attendee"} className="flex items-center gap-2 font-semibold">
-            <QrCode className="w-5 h-5 text-primary" /> Attendly
+            <QrCode className="w-5 h-5 text-primary" /> Presenza
           </Link>
           <div className="flex items-center gap-3">
             <span className="text-sm text-muted-foreground hidden sm:inline">{fullName || user.email}</span>

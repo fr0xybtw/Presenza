@@ -64,7 +64,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Attendly — Anti-fraud QR Attendance" },
+      { title: "Presenza — Anti-fraud QR Attendance" },
       { name: "description", content: "Geofenced, device-locked QR attendance for classes, teams, and shifts." },
     ],
     links: [{ rel: "stylesheet", href: appCss }],

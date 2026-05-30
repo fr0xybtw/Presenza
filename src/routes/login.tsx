@@ -15,7 +15,7 @@ const searchSchema = z.object({ mode: z.enum(["login", "signup"]).optional() });
 
 export const Route = createFileRoute("/login")({
   validateSearch: (s) => searchSchema.parse(s),
-  head: () => ({ meta: [{ title: "Sign in — Attendly" }] }),
+  head: () => ({ meta: [{ title: "Sign in — Presenza" }] }),
   component: LoginPage,
 });
 
@@ -69,7 +69,7 @@ function LoginPage() {
       <Card className="w-full max-w-md">
         <CardHeader className="text-center">
           <Link to="/" className="inline-flex items-center justify-center gap-2 mb-2">
-            <QrCode className="w-6 h-6 text-primary" /><span className="font-semibold">Attendly</span>
+            <QrCode className="w-6 h-6 text-primary" /><span className="font-semibold">Presenza</span>
           </Link>
           <CardTitle>{mode === "signup" ? "Create your account" : "Welcome back"}</CardTitle>
         </CardHeader>
