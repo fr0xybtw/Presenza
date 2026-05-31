@@ -179,7 +179,7 @@ Redirect URLs:  https://your-app.vercel.app/**
 - Flag suspicious records, reset an attendee's registered device
 - Export attendance to CSV
 
-<img width="514" height="765" alt="image" src="https://github.com/user-attachments/assets/d09526a6-fb3e-4ae8-8c1c-75c3b5b3eff6" />  <img width="1046" height="797" alt="image" src="https://github.com/user-attachments/assets/42ad056e-cceb-4c84-bff7-6a69ed5bfc02" />
+<img width="514" height="765" alt="image" src="https://github.com/user-attachments/assets/d09526a6-fb3e-4ae8-8c1c-75c3b5b3eff6" />  <img width="627" height="478" alt="image" src="https://github.com/user-attachments/assets/42ad056e-cceb-4c84-bff7-6a69ed5bfc02" />
 
 ### Attendee
 - Scan a QR code or enter a 6-character short code
