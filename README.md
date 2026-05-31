@@ -170,7 +170,7 @@ Redirect URLs:  https://your-app.vercel.app/**
 
 ## Roles
 
-<img width="643" height="666" alt="image" src="https://github.com/user-attachments/assets/9130b2a3-1a10-48f0-b141-93566d418f3b" />
+<img width="450" height="466" alt="image" src="https://github.com/user-attachments/assets/9130b2a3-1a10-48f0-b141-93566d418f3b" />
 
 ### Organizer
 - Create and manage sessions with a map-based geo-fence
@@ -179,7 +179,7 @@ Redirect URLs:  https://your-app.vercel.app/**
 - Flag suspicious records, reset an attendee's registered device
 - Export attendance to CSV
 
-<img width="514" height="765" alt="image" src="https://github.com/user-attachments/assets/d09526a6-fb3e-4ae8-8c1c-75c3b5b3eff6" />  <img width="627" height="478" alt="image" src="https://github.com/user-attachments/assets/42ad056e-cceb-4c84-bff7-6a69ed5bfc02" />
+<img width="360" height="535" alt="image" src="https://github.com/user-attachments/assets/d09526a6-fb3e-4ae8-8c1c-75c3b5b3eff6" />  <img width="627" height="478" alt="image" src="https://github.com/user-attachments/assets/42ad056e-cceb-4c84-bff7-6a69ed5bfc02" />
 
 ### Attendee
 - Scan a QR code or enter a 6-character short code
