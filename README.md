@@ -4,7 +4,7 @@
 
 ---
 
-<img width="1805" height="917" alt="image" src="https://github.com/user-attachments/assets/87fc3278-0c8e-4890-8b0d-4e04716928ab" />
+<img width="1256" height="918" alt="image" src="https://github.com/user-attachments/assets/78d5d4c9-eb61-4136-b44c-cf6a902c5f31" />
 
 ## How it works
 
@@ -178,6 +178,8 @@ Redirect URLs:  https://your-app.vercel.app/**
 - View real-time attendance list with check-in times, coordinates, device fingerprints
 - Flag suspicious records, reset an attendee's registered device
 - Export attendance to CSV
+
+<img width="514" height="765" alt="image" src="https://github.com/user-attachments/assets/d09526a6-fb3e-4ae8-8c1c-75c3b5b3eff6" />  <img width="1046" height="797" alt="image" src="https://github.com/user-attachments/assets/42ad056e-cceb-4c84-bff7-6a69ed5bfc02" />
 
 ### Attendee
 - Scan a QR code or enter a 6-character short code
