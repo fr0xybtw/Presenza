@@ -4,6 +4,8 @@
 
 ---
 
+<img width="1805" height="917" alt="image" src="https://github.com/user-attachments/assets/87fc3278-0c8e-4890-8b0d-4e04716928ab" />
+
 ## How it works
 
 ```
@@ -167,6 +169,8 @@ Redirect URLs:  https://your-app.vercel.app/**
 ---
 
 ## Roles
+
+<img width="643" height="666" alt="image" src="https://github.com/user-attachments/assets/9130b2a3-1a10-48f0-b141-93566d418f3b" />
 
 ### Organizer
 - Create and manage sessions with a map-based geo-fence
